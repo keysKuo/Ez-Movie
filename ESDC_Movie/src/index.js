@@ -167,8 +167,12 @@ app.post('/chooseseat/:id', async (req, res, next) => {
     let customer = req.session.customer || {};
 
     await API_Booking.create({...data, customer: customer._id, show: id, date: Date.now()})
-        .then((booking) => {
+        .then(async (booking) => {
             if(booking) {
+                let seats = booking.seats;
+                seats.forEach(async s => {
+                    await API_Seat.update(s._id, {status: 'unavailable'})
+                })
                 return res.redirect('/viewticket')
             }
         })
