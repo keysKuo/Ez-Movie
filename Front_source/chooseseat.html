@@ -1,0 +1,333 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>Online Movie Ticket Booking</title>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+     
+        <link rel="stylesheet" href="CSS/style.css">
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+        <link rel="icon" href="images/logo.png">
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        
+        <!-- font-awesome -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+ 
+
+    </head>
+        <body>
+
+        <nav class="navbar navbar-expand-md navbar-dark" id="main_color">
+            <a class="navbar-brand" href="index.html"><img id="logo_main" src="images/logo.png"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Movie</a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="comingsoon.html">Coming Soon</a>
+                        <a class="dropdown-item" href="nowshowing.html">Now Showing</a>
+                        </div>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="offer.html">Offers</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="nowshowing.html">Buy Ticket</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="about.html">About</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="contact.html">Contact</a>
+                    </li>
+                </ul>
+
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" data-toggle="modal" data-target="#modelId">Register</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" data-toggle="modal" data-target="#modelId1">Login</a>
+                    </li>
+                </ul>
+
+                <!-- <li class="nav-item">
+                    <a class="nav-link disabled" href="#">Disabled</a>
+                </li>
+                </ul>
+                <form class="form-inline my-2 my-lg-0">
+                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                </form> -->
+            </div>
+        </nav>
+        
+    
+        <!-- Register Modal -->
+        <div class="modal fade" id="modelId" tabindex="-1" role="dialog" aria-labelledby="modelTitleId" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header" id="main_color">
+                        <!-- <h5 class="modal-title">Register</h5> -->
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <form method="post">
+                            <div class="container">
+                                <center>
+                                    <h1>Register</h1>
+                                    <p>Please fill in this form to create an account.</p>
+                                </center>
+                                <hr>
+
+                                <label for="username"><b>Full Name</b></label>
+                                <input type="text" placeholder="Enter Your Name" name="reg_full_name" id="username" required>
+
+                                <label for="email"><b>Email</b></label>
+                                <input type="text" placeholder="Enter Email" name="reg_email" id="email" required>
+
+                                <label for="number"><b>Cell Number</b></label>
+                                <input type="tel" placeholder="Enter number" name="reg_number_txt" id="number" required>
+
+                                <label for="gender"><b>Gender</b></label>
+                                <br>
+                                <input type="radio" value="male" name="reg_gender_txt" id="gender" required>Male
+                                <input type="radio" value="female" name="reg_gender_txt" id="gender" required>Female
+                                <br>
+
+                                <label for="psw"><b>Password</b></label>
+                                <input type="password" placeholder="Enter Password" name="reg_psw" id="psw" required>
+
+                                <label for="psw-repeat"><b>Repeat Password</b></label>
+                                <input type="password" placeholder="Repeat Password" name="psw_repeat" id="psw-repeat" required>
+
+
+
+                                <hr>
+                                <p>By creating an account you agree to our <a href="#" id="a_color">Terms & Privacy</a>.</p>
+                
+                                <button type="submit" name="btn_reg" class="registerbtn">Register</button>
+                            </div>
+                            <div class="container signin">
+                                <p>Already have an account? <a id="a_color" href="#" data-toggle="modal" data-target="#modelId1" data-dismiss="modal">Log in</a>.</p>
+                            </div>
+                        </form>
+                        <!-- <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- Login Modal -->
+        <div class="modal fade" id="modelId1" tabindex="-1" role="dialog" aria-labelledby="modelTitleId" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header" id="main_color">
+                        <!-- <h5 class="modal-title">Login</h5> -->
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="container"> 
+                            <form method="post">
+                                <center>
+                                    <h1>Login</h1>
+                                </center>
+                                <hr>
+
+                                <label for="email"><b>Email</b></label>
+                                <input type="text" placeholder="Enter Email" name="log_email" id="email" required>
+
+                                <label for="psw"><b>Password</b></label>
+                                <input type="password" placeholder="Enter Password" name="log_psw" id="psw" required>
+
+                                <button type="submit" name="btn_login" class="loginbtn">Login</button>
+                            </form>
+                        </div>
+                    </div>
+                    <!-- <div class="modal-footer">
+                        <button type="button" class="btn" id="main_color">Login</button>
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div> -->
+                </div>
+            </div>
+        </div>
+
+        <script>
+            $(document).ready(function()
+            {
+                for(i=1;i<=4;i++)
+                {
+                    for(j=1;j<=10;j++)
+                    {
+                    $('#seat_chart').append('<div class="seat seat-selected col-md-2 mt-2 mb-2 ml-2 mr-2 text-center" style="background-color:grey;color:white"><input type="checkbox" id="seat" value="R'+(i+'S'+j)+'" name="seat_chart[]" class="mr-2  col-md-2 mb-2" onclick="checkboxtotal();" >R'+(i+'S'+j)+'</div>')
+                    }
+        
+                }
+            });
+            
+        
+            function change_option(mvalue)
+            {
+        
+                sessionStorage.setItem("movie_id_of_option", mvalue.value);
+                // alert(sessionStorage.getItem('movie_id_of_option'));
+        
+            
+            }
+        
+        
+            function checkboxtotal()
+            {
+                var seat=[];
+                
+                $('input[name="seat_chart[]"]:checked').each(function(){
+                    seat.push($(this).val());
+                });
+        
+                var st=seat.length;
+                document.getElementById('no_ticket').value=st;
+                var total=(st*60000)+ "Đồng";
+                $('#price_details').text(total);
+        
+                // $('#seat_details').text(seat.join(", "));
+                $('#seat_dt').val(seat.join(", "));
+            }
+        </script>
+        
+        <section class="mt-5">
+        
+            <div class="container">
+                <h3 class="text-center mt-5">Assign Seat</h3>
+                <a href="chooseseat.html"> <button type="button" class="btn btn-danger">Cancel</button></a>
+                <a href="booking.html"> <button type="button" class="btn btn-primary">Re-Assign Cinema</button></a>
+                <a href="nowshowing.html"><button type="button" class="btn btn-success">Re-Select Movie</button></a>
+               
+                <hr>
+                <div class="row">
+                    
+                    <div class="col-md-6">
+                        <div id="seat-map" id="seatCharts">
+                            <div class="row">
+                                <label class="text-center" style="width:100%;background-color:#1974D3;color:white;padding:2%">
+                                    SCREEN
+                                </label>
+                            </div>
+                                <div class="row" id="seat_chart">
+                                </div>
+                           
+        
+                        </div>
+        
+                        <h6 class="mt-3" style="color:#1974D3;">Total Ticket Price</h6>
+                        <p class="mt-1" id="price_details"></p>
+                        
+        
+                    </div>
+                    <div class="col-md-6">
+                        <form method="post" class="mt-5">
+                            <div class="container">
+        
+                                <label for="cust_id"><b>Customer Id</b></label>
+                                <input type="number" name="cust_id" id="cust_id" required value="1">
+        
+                                <label for="psw"><b>No. of Tickets</b></label>
+                                <input type="number" id="no_ticket" name="no_ticket" required>
+        
+                                <label for="psw-repeat"><b>Seat Details</b></label>
+                                <input type="text" name="seat_dt" id="seat_dt" required>
+        
+                                <div class="form-group">
+                                  <select class="form-control"  name="show_id"  id="show_id" style="border-radius:30px;" onChange="change_option(this)">
+                                    <option>Payment Type</option>
+                                        <option value="cash">Cash</option>
+                                        <option value="bank_card">Bank Card</option>
+                                        <option value="momo">Momo</option>
+        
+                                  </select>
+                                </div>
+                                
+                                <button type="submit" name="btn_booking" class="registerbtn">Buy Ticket</button>
+                            </div>       
+                        </form>
+                    </div>
+                </div>
+            </div>
+        
+        </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        <footer class="footer" id="main_color">
+            <div class="container">
+            <div class="row mt-5">
+                <div class="col-md-4">
+                <h6>MOVIES</h6>
+                <ul class="navbar-nav">
+                    <li><a id="primary_color" href="#">Now Showing</li>
+                    <li><a id="primary_color" href="#">Coming Soon</a></li>
+                    <li><a id="primary_color" href="#">Hollywood</a></li>
+                    <li><a id="primary_color" href="#">Bollywood</a></li>
+                    <li><a id="primary_color" href="#">Lollywood</a></li>
+                    <li><a id="primary_color2" href="#">See All</a></li>
+                </ul>
+                </div>
+        
+                <div class="col-md-4">
+                <p class="mt-3"><i class="fa fa-phone mt3"></i>&nbsp; +84 347263120</p>
+                            <p class="mt-3"><i class="fa fa-envelope mt3"></i>&nbsp; ddkcinme@gmail.com</p>
+                            <p class="mt-3"><i class="fa fa-map-marker mt3"></i>&nbsp; duydla86@gmail.com</p>
+                </div>
+        
+                <div class="col-md-4">
+                            <div class="mb-5">
+                                <a href="#" class="mt-5" style="color:white"><i class="fa fa-facebook-square fa-2x mt-3"></i></a>
+                                <a href="#" class="mt-5 ml-3" style="color:white"><i class="fa fa-twitter-square fa-2x mt-3"></i></a>
+                                <a href="#" class="mt-5 ml-3" style="color:white"><i class="fa fa-instagram fa-2x mt-3"></i></a>
+                                <a href="#" class="mt-5 ml-3" style="color:white"><i class="fa fa-linkedin-square fa-2x mt-3"></i></a>
+                            </div>
+                </div>
+            </div>
+            </div>
+        
+        </footer>
+        
+            
+            
+            <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+            <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+        </body>
+</html>

@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "643d94492028312f2584c0f7"
+  },
+  "name": "Angel Has Fallen (2019)",
+  "duration": "91m",
+  "release": {
+    "$date": "2023-04-17T18:43:54.013Z"
+  },
+  "desc": "...",
+  "lang": "English",
+  "slug": "angle-has-fallen-2019",
+  "createdAt": {
+    "$date": "2023-04-17T18:47:37.319Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T18:47:37.319Z"
+  },
+  "__v": 0,
+  "banner": "https://hiphimmoi.net/wp-content/uploads/2023/03/nha-trang-that-thu-ke-phan-boi-2019-118869-thumbnail.jpg"
+},{
+  "_id": {
+    "$oid": "643d94822028312f2584c0f9"
+  },
+  "name": "Missing (2023)",
+  "duration": "103m",
+  "release": {
+    "$date": "2023-04-17T18:43:54.013Z"
+  },
+  "banner": "https://hiphimmoi.net/wp-content/uploads/2023/03/mat-tich-missing-118881-thumbnail.jpg",
+  "desc": "...",
+  "lang": "English",
+  "slug": "missing-2023",
+  "createdAt": {
+    "$date": "2023-04-17T18:48:34.547Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T18:48:34.547Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d94e02028312f2584c0fb"
+  },
+  "name": "Spartacus (Season 2) (2012)",
+  "duration": "120m",
+  "release": {
+    "$date": "2023-04-17T18:43:54.013Z"
+  },
+  "banner": "https://hiphimmoi.net/wp-content/uploads/2023/04/cuoc-chien-cua-no-le-phan-2-120608-thumbnail.jpg",
+  "desc": "...",
+  "lang": "English",
+  "slug": "spartacus-season-2-2012",
+  "createdAt": {
+    "$date": "2023-04-17T18:50:08.296Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T18:50:08.296Z"
+  },
+  "__v": 0
+}]

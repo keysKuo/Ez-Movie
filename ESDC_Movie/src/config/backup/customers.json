@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "643d81d553a8052eb1e5221d"
+  },
+  "fullname": "Kuo Nhan Dung",
+  "phone": "0767916592",
+  "email": "nkeyskuo124@gmail.com",
+  "gender": "male",
+  "password": "Dung1247",
+  "createdAt": {
+    "$date": "2023-04-17T17:28:53.136Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T17:28:53.136Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d88080f3a5b0387745fee"
+  },
+  "fullname": "Kuo Nhan Dung",
+  "phone": "0767916592",
+  "email": "sheldon1247@gmail.com",
+  "gender": "male",
+  "password": "",
+  "createdAt": {
+    "$date": "2023-04-17T17:55:20.640Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T17:55:20.640Z"
+  },
+  "__v": 0
+}]

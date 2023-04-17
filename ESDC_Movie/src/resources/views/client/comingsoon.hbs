@@ -1,0 +1,22 @@
+ <section class="mt-5">
+            <h3 class="text-center">Coming Soon</h3>
+        
+            <div class="container">
+                <div class="row">
+                    {{#each movies}}
+                        <div class="col-md-3" id="film_tag">
+                            <img src="{{banner}}" alt="" style="width: 100%; height: 250px;">
+                            <h6 class="text-center mt-2" style="height:40px">{{name}}</h6>
+                            <p><b>Release Date : </b>{{formatDate release}}</p>
+                            
+                            <p><b>Language     : </b>{{lang}}</p>
+                            
+                            <a href="/viewdetail/{{slug}}" class="btn">View Details</a>
+                            {{!-- <a href="booking" class="btn">Now Book Ticket</a> --}}
+                        </div>
+                    {{/each}}
+                                
+                          
+                </div>
+            </div>
+        </section>

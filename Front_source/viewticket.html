@@ -1,0 +1,270 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>Online Movie Ticket Booking</title>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+     
+        <link rel="stylesheet" href="CSS/style.css">
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+        <link rel="icon" href="images/logo.png">
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        
+        <!-- font-awesome -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+ 
+
+    </head>
+        <body>
+
+        <nav class="navbar navbar-expand-md navbar-dark" id="main_color">
+            <a class="navbar-brand" href="index.html"><img id="logo_main" src="images/logo.png"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Movie</a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="comingsoon.html">Coming Soon</a>
+                        <a class="dropdown-item" href="nowshowing.html">Now Showing</a>
+                        </div>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="offer.html">Offers</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="nowshowing.html">Buy Ticket</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="about.html">About</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="contact.html">Contact</a>
+                    </li>
+                </ul>
+
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" data-toggle="modal" data-target="#modelId">Register</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" data-toggle="modal" data-target="#modelId1">Login</a>
+                    </li>
+                </ul>
+
+                <!-- <li class="nav-item">
+                    <a class="nav-link disabled" href="#">Disabled</a>
+                </li>
+                </ul>
+                <form class="form-inline my-2 my-lg-0">
+                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                </form> -->
+            </div>
+        </nav>
+        
+    
+        <!-- Register Modal -->
+        <div class="modal fade" id="modelId" tabindex="-1" role="dialog" aria-labelledby="modelTitleId" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header" id="main_color">
+                        <!-- <h5 class="modal-title">Register</h5> -->
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <form method="post">
+                            <div class="container">
+                                <center>
+                                    <h1>Register</h1>
+                                    <p>Please fill in this form to create an account.</p>
+                                </center>
+                                <hr>
+
+                                <label for="username"><b>Full Name</b></label>
+                                <input type="text" placeholder="Enter Your Name" name="reg_full_name" id="username" required>
+
+                                <label for="email"><b>Email</b></label>
+                                <input type="text" placeholder="Enter Email" name="reg_email" id="email" required>
+
+                                <label for="number"><b>Cell Number</b></label>
+                                <input type="tel" placeholder="Enter number" name="reg_number_txt" id="number" required>
+
+                                <label for="gender"><b>Gender</b></label>
+                                <br>
+                                <input type="radio" value="male" name="reg_gender_txt" id="gender" required>Male
+                                <input type="radio" value="female" name="reg_gender_txt" id="gender" required>Female
+                                <br>
+
+                                <label for="psw"><b>Password</b></label>
+                                <input type="password" placeholder="Enter Password" name="reg_psw" id="psw" required>
+
+                                <label for="psw-repeat"><b>Repeat Password</b></label>
+                                <input type="password" placeholder="Repeat Password" name="psw_repeat" id="psw-repeat" required>
+
+
+
+                                <hr>
+                                <p>By creating an account you agree to our <a href="#" id="a_color">Terms & Privacy</a>.</p>
+                
+                                <button type="submit" name="btn_reg" class="registerbtn">Register</button>
+                            </div>
+                            <div class="container signin">
+                                <p>Already have an account? <a id="a_color" href="#" data-toggle="modal" data-target="#modelId1" data-dismiss="modal">Log in</a>.</p>
+                            </div>
+                        </form>
+                        <!-- <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- Login Modal -->
+        <div class="modal fade" id="modelId1" tabindex="-1" role="dialog" aria-labelledby="modelTitleId" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header" id="main_color">
+                        <!-- <h5 class="modal-title">Login</h5> -->
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="container"> 
+                            <form method="post">
+                                <center>
+                                    <h1>Login</h1>
+                                </center>
+                                <hr>
+
+                                <label for="email"><b>Email</b></label>
+                                <input type="text" placeholder="Enter Email" name="log_email" id="email" required>
+
+                                <label for="psw"><b>Password</b></label>
+                                <input type="password" placeholder="Enter Password" name="log_psw" id="psw" required>
+
+                                <button type="submit" name="btn_login" class="loginbtn">Login</button>
+                            </form>
+                        </div>
+                    </div>
+                    <!-- <div class="modal-footer">
+                        <button type="button" class="btn" id="main_color">Login</button>
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div> -->
+                </div>
+            </div>
+        </div>
+
+
+        <section>
+               
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-10" style="margin:auto">
+                        <h5 class="text-center mt-5" style="color:#1974D3;">View Your Ticket</h5>
+                        <div class="col-md-10" style="margin:auto">
+                        
+                       
+                        <table class="table mt-5" border=1>
+                        <thead id="main_color">
+                            <tr>    
+                                <th>Name of Movie</th>
+                                <th>No Ticket</th>
+                                <th>Booking Date</th>
+                                <th>Show ID</th>  
+                                <th>Total</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>                             
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>   
+                                <td></td>                                               
+                                <td>
+                                    <a href="viewticketdetail.html" class="btn btn-primary">View Details</a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </section>
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        <footer class="footer" id="main_color">
+            <div class="container">
+            <div class="row mt-5">
+                <div class="col-md-4">
+                <h6>MOVIES</h6>
+                <ul class="navbar-nav">
+                    <li><a id="primary_color" href="#">Now Showing</li>
+                    <li><a id="primary_color" href="#">Coming Soon</a></li>
+                    <li><a id="primary_color" href="#">Hollywood</a></li>
+                    <li><a id="primary_color" href="#">Bollywood</a></li>
+                    <li><a id="primary_color" href="#">Lollywood</a></li>
+                    <li><a id="primary_color2" href="#">See All</a></li>
+                </ul>
+                </div>
+        
+                <div class="col-md-4">
+                <p class="mt-3"><i class="fa fa-phone mt3"></i>&nbsp; +84 347263120</p>
+                            <p class="mt-3"><i class="fa fa-envelope mt3"></i>&nbsp; ddkcinme@gmail.com</p>
+                            <p class="mt-3"><i class="fa fa-map-marker mt3"></i>&nbsp; duydla86@gmail.com</p>
+                </div>
+        
+                <div class="col-md-4">
+                            <div class="mb-5">
+                                <a href="#" class="mt-5" style="color:white"><i class="fa fa-facebook-square fa-2x mt-3"></i></a>
+                                <a href="#" class="mt-5 ml-3" style="color:white"><i class="fa fa-twitter-square fa-2x mt-3"></i></a>
+                                <a href="#" class="mt-5 ml-3" style="color:white"><i class="fa fa-instagram fa-2x mt-3"></i></a>
+                                <a href="#" class="mt-5 ml-3" style="color:white"><i class="fa fa-linkedin-square fa-2x mt-3"></i></a>
+                            </div>
+                </div>
+            </div>
+            </div>
+        
+        </footer>
+        
+            
+            
+            <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+            <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+        </body>
+</html>

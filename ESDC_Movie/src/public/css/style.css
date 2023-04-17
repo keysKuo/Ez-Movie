@@ -1,0 +1,136 @@
+#main_color {
+  background-color: #1974D3;
+  /* color: white; */
+}
+
+.section {
+  min-height: 450px;
+}
+
+.footer {
+  color: white;
+  padding: 1%;
+   
+}
+
+#logo_main {
+  width: 50px;
+  border-radius: 10px;
+}
+
+#primary_color {
+  color:rgba(255,255,255,.5);
+}
+
+#primary_color2 {
+  color: lightgrey;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: black;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Full-width input fields */
+textarea, input[type=text], input[type=password], input[type=tel], input[type=number], input[type=date], input[type=file] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+  border-radius: 30px;
+}
+
+textarea, input[type=text]:focus, input[type=password]:focus, input[type=tel]:focus, input[type=number]:focus  {
+  background-color: #ddd;
+  outline: none;
+}
+
+input[type=radio] {
+  border-radius: 30px;
+  margin-right: 2%;
+  margin-left: 5%;
+}
+
+/* Overwrite default styles of hr */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for the submit button */
+.registerbtn, .loginbtn {
+  background-color: #1974D3;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+  border-radius: 30px;
+}
+
+.registerbtn:hover {
+  opacity: 1;
+}
+
+/* Add a blue text color to links */
+#a_color, h1, label, h3 {
+  color: #1974D3;
+}
+
+/* Set a grey background color and center the text of the "sign in" section */
+.signin {
+  margin: 16px;
+  background-color: #f1f1f1;
+  text-align: center;
+}
+
+textarea {
+  resize: none;
+  width: 100%;
+  border-radius: 30px;
+}
+
+#film_tag {
+  border-style: groove;
+  border-width: medium;
+  border-color: #1974D3;
+  padding: 25px;
+  margin-bottom: 40px;
+  margin-right: 35px;
+  box-sizing: content-box;
+  background-color: #52CCEC;
+}
+
+#film_tag a {
+  background-color: #1974D3;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+  border-radius: 30px;
+}
+
+.cancel_btn {
+  background-color: #1974D3;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 50%;
+  opacity: 0.9;
+  border-radius: 30px;
+}
+
+

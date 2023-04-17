@@ -1,0 +1,5121 @@
+[{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e123"
+  },
+  "seat_num": "A01",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.427Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.427Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e124"
+  },
+  "seat_num": "B01",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.427Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.427Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e125"
+  },
+  "seat_num": "C01",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.427Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.427Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e126"
+  },
+  "seat_num": "D01",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.427Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.427Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e129"
+  },
+  "seat_num": "G01",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.427Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.427Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e12a"
+  },
+  "seat_num": "H01",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e12b"
+  },
+  "seat_num": "A02",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e12c"
+  },
+  "seat_num": "B02",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e12d"
+  },
+  "seat_num": "C02",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e12e"
+  },
+  "seat_num": "D02",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e12f"
+  },
+  "seat_num": "E02",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e130"
+  },
+  "seat_num": "F02",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e131"
+  },
+  "seat_num": "G02",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e132"
+  },
+  "seat_num": "H02",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e133"
+  },
+  "seat_num": "A03",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e134"
+  },
+  "seat_num": "B03",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e127"
+  },
+  "seat_num": "E01",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.427Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.427Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e136"
+  },
+  "seat_num": "D03",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e137"
+  },
+  "seat_num": "E03",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e138"
+  },
+  "seat_num": "F03",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e128"
+  },
+  "seat_num": "F01",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.427Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.427Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e13a"
+  },
+  "seat_num": "H03",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e13b"
+  },
+  "seat_num": "A04",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e13c"
+  },
+  "seat_num": "B04",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e13d"
+  },
+  "seat_num": "C04",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e13e"
+  },
+  "seat_num": "D04",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e13f"
+  },
+  "seat_num": "E04",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e140"
+  },
+  "seat_num": "F04",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e141"
+  },
+  "seat_num": "G04",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e142"
+  },
+  "seat_num": "H04",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e143"
+  },
+  "seat_num": "A05",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e144"
+  },
+  "seat_num": "B05",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e145"
+  },
+  "seat_num": "C05",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e146"
+  },
+  "seat_num": "D05",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e147"
+  },
+  "seat_num": "E05",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e148"
+  },
+  "seat_num": "F05",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e149"
+  },
+  "seat_num": "G05",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e135"
+  },
+  "seat_num": "C03",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e139"
+  },
+  "seat_num": "G03",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e14c"
+  },
+  "seat_num": "B06",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e14d"
+  },
+  "seat_num": "C06",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e14e"
+  },
+  "seat_num": "D06",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e14f"
+  },
+  "seat_num": "E06",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e150"
+  },
+  "seat_num": "F06",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e151"
+  },
+  "seat_num": "G06",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e152"
+  },
+  "seat_num": "H06",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e153"
+  },
+  "seat_num": "A07",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e154"
+  },
+  "seat_num": "B07",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e155"
+  },
+  "seat_num": "C07",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e156"
+  },
+  "seat_num": "D07",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e157"
+  },
+  "seat_num": "E07",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e158"
+  },
+  "seat_num": "F07",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e159"
+  },
+  "seat_num": "G07",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e15a"
+  },
+  "seat_num": "H07",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e15b"
+  },
+  "seat_num": "A08",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e15c"
+  },
+  "seat_num": "B08",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e15d"
+  },
+  "seat_num": "C08",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e15e"
+  },
+  "seat_num": "D08",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e15f"
+  },
+  "seat_num": "E08",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e160"
+  },
+  "seat_num": "F08",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e161"
+  },
+  "seat_num": "G08",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e162"
+  },
+  "seat_num": "H08",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e163"
+  },
+  "seat_num": "A09",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e14a"
+  },
+  "seat_num": "H05",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e165"
+  },
+  "seat_num": "C09",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e14b"
+  },
+  "seat_num": "A06",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e167"
+  },
+  "seat_num": "E09",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e168"
+  },
+  "seat_num": "F09",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e169"
+  },
+  "seat_num": "G09",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e16a"
+  },
+  "seat_num": "H09",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.430Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.430Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e16b"
+  },
+  "seat_num": "A10",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.430Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.430Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e16c"
+  },
+  "seat_num": "B10",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.430Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.430Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e16d"
+  },
+  "seat_num": "C10",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.430Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.430Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e16e"
+  },
+  "seat_num": "D10",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.430Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.430Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e16f"
+  },
+  "seat_num": "E10",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.430Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.430Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e170"
+  },
+  "seat_num": "F10",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.430Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.430Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e171"
+  },
+  "seat_num": "G10",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.430Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.430Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e172"
+  },
+  "seat_num": "H10",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.430Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.430Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e164"
+  },
+  "seat_num": "B09",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da699cc928bec51b3e166"
+  },
+  "seat_num": "D09",
+  "status": "available",
+  "show": {
+    "$oid": "643da699cc928bec51b3e121"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:05:45.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122830f"
+  },
+  "seat_num": "A01",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.335Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.335Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228310"
+  },
+  "seat_num": "B01",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.335Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.335Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228311"
+  },
+  "seat_num": "C01",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.335Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.335Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228312"
+  },
+  "seat_num": "D01",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.335Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.335Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228315"
+  },
+  "seat_num": "G01",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228316"
+  },
+  "seat_num": "H01",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228317"
+  },
+  "seat_num": "A02",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228318"
+  },
+  "seat_num": "B02",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228319"
+  },
+  "seat_num": "C02",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122831a"
+  },
+  "seat_num": "D02",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122831b"
+  },
+  "seat_num": "E02",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122831c"
+  },
+  "seat_num": "F02",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122831d"
+  },
+  "seat_num": "G02",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122831e"
+  },
+  "seat_num": "H02",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122831f"
+  },
+  "seat_num": "A03",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228320"
+  },
+  "seat_num": "B03",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228313"
+  },
+  "seat_num": "E01",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228322"
+  },
+  "seat_num": "D03",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228323"
+  },
+  "seat_num": "E03",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228314"
+  },
+  "seat_num": "F01",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228325"
+  },
+  "seat_num": "G03",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228326"
+  },
+  "seat_num": "H03",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228327"
+  },
+  "seat_num": "A04",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228328"
+  },
+  "seat_num": "B04",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228329"
+  },
+  "seat_num": "C04",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122832a"
+  },
+  "seat_num": "D04",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122832b"
+  },
+  "seat_num": "E04",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122832c"
+  },
+  "seat_num": "F04",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122832d"
+  },
+  "seat_num": "G04",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122832e"
+  },
+  "seat_num": "H04",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122832f"
+  },
+  "seat_num": "A05",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228330"
+  },
+  "seat_num": "B05",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228331"
+  },
+  "seat_num": "C05",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228332"
+  },
+  "seat_num": "D05",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228333"
+  },
+  "seat_num": "E05",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228334"
+  },
+  "seat_num": "F05",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228335"
+  },
+  "seat_num": "G05",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228336"
+  },
+  "seat_num": "H05",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228337"
+  },
+  "seat_num": "A06",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228321"
+  },
+  "seat_num": "C03",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228324"
+  },
+  "seat_num": "F03",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122833a"
+  },
+  "seat_num": "D06",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122833b"
+  },
+  "seat_num": "E06",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122833c"
+  },
+  "seat_num": "F06",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122833d"
+  },
+  "seat_num": "G06",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122833e"
+  },
+  "seat_num": "H06",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122833f"
+  },
+  "seat_num": "A07",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228340"
+  },
+  "seat_num": "B07",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228341"
+  },
+  "seat_num": "C07",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228342"
+  },
+  "seat_num": "D07",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228343"
+  },
+  "seat_num": "E07",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228344"
+  },
+  "seat_num": "F07",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228345"
+  },
+  "seat_num": "G07",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228346"
+  },
+  "seat_num": "H07",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228347"
+  },
+  "seat_num": "A08",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228348"
+  },
+  "seat_num": "B08",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228349"
+  },
+  "seat_num": "C08",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122834a"
+  },
+  "seat_num": "D08",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122834b"
+  },
+  "seat_num": "E08",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122834c"
+  },
+  "seat_num": "F08",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122834d"
+  },
+  "seat_num": "G08",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122834e"
+  },
+  "seat_num": "H08",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122834f"
+  },
+  "seat_num": "A09",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228350"
+  },
+  "seat_num": "B09",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228351"
+  },
+  "seat_num": "C09",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228338"
+  },
+  "seat_num": "B06",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228353"
+  },
+  "seat_num": "E09",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228354"
+  },
+  "seat_num": "F09",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228355"
+  },
+  "seat_num": "G09",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228356"
+  },
+  "seat_num": "H09",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228357"
+  },
+  "seat_num": "A10",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228358"
+  },
+  "seat_num": "B10",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228359"
+  },
+  "seat_num": "C10",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228339"
+  },
+  "seat_num": "C06",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.336Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122835b"
+  },
+  "seat_num": "E10",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122835c"
+  },
+  "seat_num": "F10",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122835d"
+  },
+  "seat_num": "G10",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122835e"
+  },
+  "seat_num": "H10",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f1228352"
+  },
+  "seat_num": "D09",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6b749b43c34f122835a"
+  },
+  "seat_num": "D10",
+  "status": "available",
+  "show": {
+    "$oid": "643da6b749b43c34f122830d"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:15.337Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba599f0"
+  },
+  "seat_num": "A01",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.219Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba599f1"
+  },
+  "seat_num": "B01",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.219Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba599f2"
+  },
+  "seat_num": "C01",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.219Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba599f3"
+  },
+  "seat_num": "D01",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.219Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba599f6"
+  },
+  "seat_num": "G01",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.219Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba599f7"
+  },
+  "seat_num": "H01",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.219Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba599f8"
+  },
+  "seat_num": "A02",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.219Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba599f9"
+  },
+  "seat_num": "B02",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba599fa"
+  },
+  "seat_num": "C02",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba599fb"
+  },
+  "seat_num": "D02",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba599fc"
+  },
+  "seat_num": "E02",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba599fd"
+  },
+  "seat_num": "F02",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba599fe"
+  },
+  "seat_num": "G02",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba599ff"
+  },
+  "seat_num": "H02",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a00"
+  },
+  "seat_num": "A03",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a01"
+  },
+  "seat_num": "B03",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba599f4"
+  },
+  "seat_num": "E01",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.219Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a03"
+  },
+  "seat_num": "D03",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a04"
+  },
+  "seat_num": "E03",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a05"
+  },
+  "seat_num": "F03",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba599f5"
+  },
+  "seat_num": "F01",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.219Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a07"
+  },
+  "seat_num": "H03",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a08"
+  },
+  "seat_num": "A04",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a09"
+  },
+  "seat_num": "B04",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a0a"
+  },
+  "seat_num": "C04",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a0b"
+  },
+  "seat_num": "D04",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a0c"
+  },
+  "seat_num": "E04",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a0d"
+  },
+  "seat_num": "F04",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a0e"
+  },
+  "seat_num": "G04",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a0f"
+  },
+  "seat_num": "H04",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a10"
+  },
+  "seat_num": "A05",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a11"
+  },
+  "seat_num": "B05",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a12"
+  },
+  "seat_num": "C05",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a13"
+  },
+  "seat_num": "D05",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a14"
+  },
+  "seat_num": "E05",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a15"
+  },
+  "seat_num": "F05",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a16"
+  },
+  "seat_num": "G05",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a17"
+  },
+  "seat_num": "H05",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a18"
+  },
+  "seat_num": "A06",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a02"
+  },
+  "seat_num": "C03",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a06"
+  },
+  "seat_num": "G03",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a1b"
+  },
+  "seat_num": "D06",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a1c"
+  },
+  "seat_num": "E06",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a1d"
+  },
+  "seat_num": "F06",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a1e"
+  },
+  "seat_num": "G06",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a1f"
+  },
+  "seat_num": "H06",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a20"
+  },
+  "seat_num": "A07",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a21"
+  },
+  "seat_num": "B07",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a22"
+  },
+  "seat_num": "C07",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a23"
+  },
+  "seat_num": "D07",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a24"
+  },
+  "seat_num": "E07",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a25"
+  },
+  "seat_num": "F07",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a26"
+  },
+  "seat_num": "G07",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a27"
+  },
+  "seat_num": "H07",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a28"
+  },
+  "seat_num": "A08",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a29"
+  },
+  "seat_num": "B08",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a2a"
+  },
+  "seat_num": "C08",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a2b"
+  },
+  "seat_num": "D08",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a2c"
+  },
+  "seat_num": "E08",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a2d"
+  },
+  "seat_num": "F08",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a2e"
+  },
+  "seat_num": "G08",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a2f"
+  },
+  "seat_num": "H08",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a30"
+  },
+  "seat_num": "A09",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a31"
+  },
+  "seat_num": "B09",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a32"
+  },
+  "seat_num": "C09",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a19"
+  },
+  "seat_num": "B06",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a34"
+  },
+  "seat_num": "E09",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a1a"
+  },
+  "seat_num": "C06",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a36"
+  },
+  "seat_num": "G09",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a37"
+  },
+  "seat_num": "H09",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a38"
+  },
+  "seat_num": "A10",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a39"
+  },
+  "seat_num": "B10",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.221Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.221Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a3a"
+  },
+  "seat_num": "C10",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.221Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.221Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a3b"
+  },
+  "seat_num": "D10",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.221Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.221Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a3c"
+  },
+  "seat_num": "E10",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.221Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.221Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a3d"
+  },
+  "seat_num": "F10",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.221Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.221Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a3e"
+  },
+  "seat_num": "G10",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.221Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.221Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a3f"
+  },
+  "seat_num": "H10",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.221Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.221Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a33"
+  },
+  "seat_num": "D09",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643da6c9506d2df7aba59a35"
+  },
+  "seat_num": "F09",
+  "status": "available",
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T20:06:33.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574a6"
+  },
+  "seat_num": "A01",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574a7"
+  },
+  "seat_num": "B01",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574a8"
+  },
+  "seat_num": "C01",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574a9"
+  },
+  "seat_num": "D01",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574ac"
+  },
+  "seat_num": "G01",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574ad"
+  },
+  "seat_num": "H01",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574ae"
+  },
+  "seat_num": "A02",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574af"
+  },
+  "seat_num": "B02",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574b0"
+  },
+  "seat_num": "C02",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574b1"
+  },
+  "seat_num": "D02",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574b2"
+  },
+  "seat_num": "E02",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574b3"
+  },
+  "seat_num": "F02",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574b4"
+  },
+  "seat_num": "G02",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574b5"
+  },
+  "seat_num": "H02",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574b6"
+  },
+  "seat_num": "A03",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574b7"
+  },
+  "seat_num": "B03",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574aa"
+  },
+  "seat_num": "E01",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574b9"
+  },
+  "seat_num": "D03",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574ba"
+  },
+  "seat_num": "E03",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574bb"
+  },
+  "seat_num": "F03",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574bc"
+  },
+  "seat_num": "G03",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574ab"
+  },
+  "seat_num": "F01",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574be"
+  },
+  "seat_num": "A04",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574bf"
+  },
+  "seat_num": "B04",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574c0"
+  },
+  "seat_num": "C04",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574c1"
+  },
+  "seat_num": "D04",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574c2"
+  },
+  "seat_num": "E04",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574c3"
+  },
+  "seat_num": "F04",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574c4"
+  },
+  "seat_num": "G04",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574c5"
+  },
+  "seat_num": "H04",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574c6"
+  },
+  "seat_num": "A05",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574c7"
+  },
+  "seat_num": "B05",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574c8"
+  },
+  "seat_num": "C05",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574c9"
+  },
+  "seat_num": "D05",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574ca"
+  },
+  "seat_num": "E05",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574cb"
+  },
+  "seat_num": "F05",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574cc"
+  },
+  "seat_num": "G05",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574cd"
+  },
+  "seat_num": "H05",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574ce"
+  },
+  "seat_num": "A06",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574b8"
+  },
+  "seat_num": "C03",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574bd"
+  },
+  "seat_num": "H03",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574d1"
+  },
+  "seat_num": "D06",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574d2"
+  },
+  "seat_num": "E06",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574d3"
+  },
+  "seat_num": "F06",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574d4"
+  },
+  "seat_num": "G06",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574d5"
+  },
+  "seat_num": "H06",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574d6"
+  },
+  "seat_num": "A07",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574d7"
+  },
+  "seat_num": "B07",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574d8"
+  },
+  "seat_num": "C07",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574d9"
+  },
+  "seat_num": "D07",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574da"
+  },
+  "seat_num": "E07",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574db"
+  },
+  "seat_num": "F07",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574dc"
+  },
+  "seat_num": "G07",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574dd"
+  },
+  "seat_num": "H07",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574de"
+  },
+  "seat_num": "A08",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574df"
+  },
+  "seat_num": "B08",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574e0"
+  },
+  "seat_num": "C08",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574e1"
+  },
+  "seat_num": "D08",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574e2"
+  },
+  "seat_num": "E08",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574e3"
+  },
+  "seat_num": "F08",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574e4"
+  },
+  "seat_num": "G08",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574e5"
+  },
+  "seat_num": "H08",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574e6"
+  },
+  "seat_num": "A09",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574e7"
+  },
+  "seat_num": "B09",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574e8"
+  },
+  "seat_num": "C09",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574cf"
+  },
+  "seat_num": "B06",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574ea"
+  },
+  "seat_num": "E09",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574eb"
+  },
+  "seat_num": "F09",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574ec"
+  },
+  "seat_num": "G09",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574d0"
+  },
+  "seat_num": "C06",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574ee"
+  },
+  "seat_num": "A10",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574ef"
+  },
+  "seat_num": "B10",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574f0"
+  },
+  "seat_num": "C10",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574f1"
+  },
+  "seat_num": "D10",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.597Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.597Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574f2"
+  },
+  "seat_num": "E10",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.597Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.597Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574f3"
+  },
+  "seat_num": "F10",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.597Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.597Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574f4"
+  },
+  "seat_num": "G10",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.597Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.597Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574f5"
+  },
+  "seat_num": "H10",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.597Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.597Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574e9"
+  },
+  "seat_num": "D09",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf4ff41842bc15d574ed"
+  },
+  "seat_num": "H09",
+  "status": "available",
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:11.596Z"
+  },
+  "__v": 0
+}]

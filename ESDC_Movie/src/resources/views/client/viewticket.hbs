@@ -1,0 +1,53 @@
+<section>
+               
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-10" style="margin:auto">
+                        <h5 class="text-center mt-5" style="color:#1974D3;">View Your Ticket</h5>
+                        <div class="col-md-10" style="margin:auto">
+                        
+                       
+                        <table class="table mt-5" border=1>
+                        <thead id="main_color">
+                            <tr>    
+                                <th>Name of Movie</th>
+                                <th>No Ticket</th>
+                                <th>Booking Date</th>
+                                <th>Show ID</th>  
+                                <th>Total</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {{#if bookings}}
+                            {{#each bookings}}
+                            <tr>                             
+                                <td>{{show.movie.name}}</td>
+                                <td>{{n_ticket}}</td>
+                                <td>{{formatDate date}}</td>
+                                <td>{{show._id}}</td>   
+                                <td>{{total}}</td>                                               
+                                <td>
+                                    <a href="/viewticketdetail/{{_id}}" class="btn btn-primary">View Details</a>
+                                </td>
+                            </tr>
+                            {{/each}}
+                            {{else}}
+                            <tr>                             
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>   
+                                <td></td>                                               
+                                <td>
+                                    {{!-- <a href="/viewticketdetail" class="btn btn-primary">View Details</a> --}}
+                                </tr>
+                            {{/if}}
+                        </tbody>
+                    </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </section>

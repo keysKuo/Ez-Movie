@@ -1,0 +1,73 @@
+<section class="mt-5">
+                   
+            <div class="container">
+                <div class="row" style="margin-bottom:30px;">
+                    <div class="col-md-5" >
+                                <h3 class=" mt-2" style="height:40px">{{movie.name}}</h3>
+                                <a href="/viewdetail/{{movie.slug}}"><img src="{{movie.banner}}" alt="" style="width: 60%; height: 350px;"></a>
+                                
+                    </div>
+                        <div class="col-md-7">
+                            <h5 class="text-center mt-2" style="color:#1974D3;">Choose Cinema</h5>
+
+                            <div class="container">
+                                {{#if shows}}
+                                {{#each shows}}
+                                <div id="accordion">
+                                    <div class="card">
+                                        <div class="card-header">
+                                            <a class="card-link"
+                                                data-toggle="collapse"
+                                                href="#description1">
+                                                    <tr>                          
+                                                        <td>{{cinema.name}} - {{time}}</td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
+                                             </a>
+                                            </div>
+                                            <div id="description1"
+                                                class="collapse"
+                                                data-parent="#accordion">
+                                                <div class="card-body">
+                                                    <table class="table mt-5" border=1>
+                                                    <thead id="main_color">
+                                                        <tr>
+                                                            <td><b>Date</b></td>
+                                                            <td><b>Time</b></td>
+                                                            <td><b>Price</b></td>                                                                                 
+                                                            <td><b></b></td>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>                          
+                                                            <td>{{formatDate date}}</td>
+                                                            <td>{{time}}</td>
+                                                            <td>{{price}}</td>                                                                                 
+                                                            <td>
+                                                            <a href="/chooseseat/{{_id}}" class="btn btn-primary">Choose</a>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                    </table>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                </div>
+                                {{/each}}
+                                {{else}}
+                                <h4 class="w-75 mt-5 mx-auto text-center">Không tìm thấy suất chiếu</h4>
+                                {{/if}}
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+
+            </div>
+            </div>
+
+        </section>

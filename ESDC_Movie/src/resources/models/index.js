@@ -1,0 +1,6 @@
+module.exports.Booking = require('./Booking')
+module.exports.Movie = require('./Movie')
+module.exports.Cinema = require('./Cinema')
+module.exports.Customer = require('./Customer')
+module.exports.Seat = require('./Seat')
+module.exports.Show = require('./Show')

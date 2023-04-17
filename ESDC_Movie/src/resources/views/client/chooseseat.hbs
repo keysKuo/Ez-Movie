@@ -1,0 +1,123 @@
+
+ <section class="mt-5">
+        
+            <div class="container">
+                <h3 class="text-center mt-5">Assign Seat</h3>
+                <a href="/"> <button type="button" class="btn btn-danger">Cancel</button></a>
+                <a href="/booking/{{show.movie.slug}}"> <button type="button" class="btn btn-primary">Re-Assign Cinema</button></a>
+                <a href="/nowshowing"><button type="button" class="btn btn-success">Re-Select Movie</button></a>
+               
+                <hr>
+                <div class="row mt-5">
+                    
+                    <div class="col-md-6">
+                        <form method="post" class="" action="/chooseseat/{{show._id}}">
+                        <input class="d-none" type="text" name="total" id="total" value="">
+                        <div class="d-none price">{{show.price}}</div>
+                        <div id="seat-map" id="seatCharts">
+                            <div class="row">
+                                <label class="text-center" style="width:100%;background-color:#1974D3;color:white;padding:2%">
+                                    SCREEN
+                                </label>
+                            </div>
+                                <div class="row" id="seat_chart">
+                                    {{#each seats}}
+                                    <div {{#equal status "unavailable" }}style="background-color: crimson"{{/equal}} class="seat seat-selected col-md-2 mt-2 mb-2 ml-2 mr-2 text-center" style="background-color:grey;color:white">{{#equal status "available" }}<input type="checkbox" id="seat" value="{{_id}}" name="seats" class="seat-check mr-2  col-md-2 mb-2"  >{{/equal}}{{seat_num}}</div>
+                                    {{/each}}
+                                </div>
+                           
+        
+                        </div>
+        
+                        <h6 class="mt-3" style="color:#1974D3;">Total Ticket Price</h6>
+                        <p class="mt-1" id="price_details"></p>
+                        
+        
+                    </div>
+                    <div class="col-md-6">
+                            <div class="container">
+        
+                                <label for="cust_id"><b>Customer Name</b></label>
+                                <input type="text" name="customer" id="cust_id" readonly value="{{username}}">
+        
+                                <label for="psw"><b>No. of Tickets</b></label>
+                                <input type="number" id="no_ticket" name="n_ticket" readonly value="0">
+        
+                                
+        
+                                <div class="form-group">
+                                  <select class="form-control"  name="show_id"  id="show_id" style="border-radius:30px;" onChange="change_option(this)">
+                                    <option>Payment Type</option>
+                                        <option value="cash">Cash</option>
+                                        
+        
+                                  </select>
+                                </div>
+                                
+                                <button type="submit" class="registerbtn">Buy Ticket</button>
+                            </div>       
+                        </form>
+                    </div>
+                </div>
+            </div>
+        
+        </section>
+
+<script>
+    $('.seat-check').change(function() {
+            let n_ticket = $('#no_ticket').val()
+            let price = parseInt($('.price').text());
+        if(this.checked) {
+            $('#no_ticket').val(++n_ticket);
+            $('#total').val(parseInt($('#no_ticket').val()) * price)
+            $(this).parent().css('background-color', 'crimson')
+        }else {
+            $('#no_ticket').val(--n_ticket);
+
+            $('#total').val(parseInt($('#total').val()) - price)
+             $(this).parent().css('background-color', 'grey')
+        }
+    })
+</script>
+
+{{!-- <script>
+            $(document).ready(function()
+            {
+                {{!-- for(i=1;i<=4;i++)
+                {
+                    for(j=1;j<=10;j++)
+                    {
+                    $('#seat_chart').append('<div class="seat seat-selected col-md-2 mt-2 mb-2 ml-2 mr-2 text-center" style="background-color:grey;color:white"><input type="checkbox" id="seat" value="R'+(i+'S'+j)+'" name="seat_chart[]" class="mr-2  col-md-2 mb-2" onclick="checkboxtotal();" >R'+(i+'S'+j)+'</div>')
+                    }
+        
+                } --}}
+            });
+            
+        
+            {{!-- function change_option(mvalue)
+            {
+        
+                sessionStorage.setItem("movie_id_of_option", mvalue.value);
+                // alert(sessionStorage.getItem('movie_id_of_option'));
+        
+            
+            }
+        
+        
+            function checkboxtotal()
+            {
+                var seat=[];
+                
+                $('input[name="seat_chart[]"]:checked').each(function(){
+                    seat.push($(this).val());
+                });
+        
+                var st=seat.length;
+                document.getElementById('no_ticket').value=st;
+                var total=(st*60000)+ "Đồng";
+                $('#price_details').text(total);
+        
+                // $('#seat_details').text(seat.join(", "));
+                $('#seat_dt').val(seat.join(", "));
+            } --}}
+        </script> --}}

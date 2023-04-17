@@ -1,0 +1,106 @@
+[{
+  "_id": {
+    "$oid": "643db5953a9a45cbf27dd5ab"
+  },
+  "customer": {
+    "$oid": "643d81d553a8052eb1e5221d"
+  },
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "n_ticket": 5,
+  "date": {
+    "$date": "2023-04-17T21:09:41.868Z"
+  },
+  "seats": [
+    {
+      "$oid": "643da6c9506d2df7aba59a3c"
+    },
+    {
+      "$oid": "643da6c9506d2df7aba599fd"
+    },
+    {
+      "$oid": "643da6c9506d2df7aba59a04"
+    },
+    {
+      "$oid": "643da6c9506d2df7aba59a0d"
+    },
+    {
+      "$oid": "643da6c9506d2df7aba59a13"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-17T21:09:41.875Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:09:41.875Z"
+  },
+  "__v": 0,
+  "total": "900000"
+},{
+  "_id": {
+    "$oid": "643dbaa6dcf257f88908c56f"
+  },
+  "customer": {
+    "$oid": "643d81d553a8052eb1e5221d"
+  },
+  "show": {
+    "$oid": "643da6c9506d2df7aba599ee"
+  },
+  "n_ticket": 3,
+  "total": 480000,
+  "date": {
+    "$date": "2023-04-17T21:31:18.794Z"
+  },
+  "seats": [
+    {
+      "$oid": "643da6c9506d2df7aba599fd"
+    },
+    {
+      "$oid": "643da6c9506d2df7aba599fe"
+    },
+    {
+      "$oid": "643da6c9506d2df7aba59a04"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-17T21:31:18.799Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:31:18.799Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643dbf73f41842bc15d5755a"
+  },
+  "customer": {
+    "$oid": "643d81d553a8052eb1e5221d"
+  },
+  "show": {
+    "$oid": "643dbf4ff41842bc15d574a4"
+  },
+  "n_ticket": 3,
+  "total": 600000,
+  "date": {
+    "$date": "2023-04-17T21:51:47.656Z"
+  },
+  "seats": [
+    {
+      "$oid": "643dbf4ff41842bc15d574d9"
+    },
+    {
+      "$oid": "643dbf4ff41842bc15d574da"
+    },
+    {
+      "$oid": "643dbf4ff41842bc15d574db"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-17T21:51:47.657Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T21:51:47.657Z"
+  },
+  "__v": 0
+}]

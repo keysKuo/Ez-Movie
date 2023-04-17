@@ -1,0 +1,6 @@
+module.exports.API_Booking = require('./Booking')
+module.exports.API_Cinema = require('./Cinema')
+module.exports.API_Customer = require('./Customer')
+module.exports.API_Movie = require('./Movie')
+module.exports.API_Seat = require('./Seat')
+module.exports.API_Show = require('./Show')

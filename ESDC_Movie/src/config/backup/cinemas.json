@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "643d9e607a52f7309828f8ad"
+  },
+  "name": "CGV Hùng Vương",
+  "address": "Tầng 7, Hùng Vương Plaza, 126 Hùng Vương, Q.5, Tp. Hồ Chí Minh"
+},{
+  "_id": {
+    "$oid": "643d9ea67a52f7309828f8ae"
+  },
+  "name": "BHD Star Lê Văn Việt",
+  "address": "Tầng 4, Vincom Plaza Lê Văn Việt, 50 Lê Văn Việt, P.Hiệp Phú, Quận 9, TP.HCM"
+},{
+  "_id": {
+    "$oid": "643d9ed87a52f7309828f8af"
+  },
+  "name": "CGV Sư Vạn Hạnh",
+  "address": "Tầng M - 1, khách sạn Liberty Center Saigon Citypoint, 59 - 61 Pasteur, Quận 1 Ho Chi Minh"
+}]
